@@ -1,3 +1,3 @@
-module github.com/mdwhatcott/format
+module github.com/mdw-go/format
 
 go 1.13

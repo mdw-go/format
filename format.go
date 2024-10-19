@@ -1,4 +1,4 @@
-// package format is basically the fmt package, but spelled correctly, without
+// Package format is basically the fmt package, but spelled correctly, without
 // the AWOL characters, the ambiguities, and the archaic ambiance.
 package format
 

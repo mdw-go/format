@@ -3,7 +3,7 @@ package main
 import (
 	"bytes"
 
-	. "github.com/mdwhatcott/format"
+	. "github.com/mdw-go/format"
 )
 
 var hello, world string
